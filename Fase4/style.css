@@ -1,0 +1,28 @@
+@charset "UTF-8"
+
+body{
+
+}
+
+.logounad{
+    width:60% ;
+    padding: 5px 90px;
+}
+
+.logotiposredes{
+    width: 40px;
+    background-color: black;
+    margin: 5px 5px;
+}
+
+.evaluacion{
+    width: 40%;
+}
+
+.col-9{
+    background-color: rgb(193, 193, 246);
+}
+
+.col-3{
+    background-color: rgb(240, 213, 178);
+}
